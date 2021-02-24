@@ -1,6 +1,5 @@
-# python-challenge notes
+# Notes
 1. All the instructions regarding the codes can be found in the comments within "main.py" files for both PyBank and PyPoll projects. 
-2. Analysis files created using Python as instructed.
 
 # Skills Required for This Project
 1. For loops in Python
